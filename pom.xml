@@ -223,17 +223,17 @@
   </build>
 
   <repositories>
-    <repository>
-      <id>internal</id>
-      <name>Archiva Managed Internal Repository</name>
-      <url>http://dev.inf.unideb.hu:8090/archiva/repository/internal/</url>
-      <releases>
-        <enabled>true</enabled>
-      </releases>
-      <snapshots>
-        <enabled>true</enabled>
-      </snapshots>
-    </repository>
+    <!-- <repository> -->
+    <!--   <id>internal</id> -->
+    <!--   <name>Archiva Managed Internal Repository</name> -->
+    <!--   <url>http://dev.inf.unideb.hu:8090/archiva/repository/internal/</url> -->
+    <!--   <releases> -->
+    <!--     <enabled>true</enabled> -->
+    <!--   </releases> -->
+    <!--   <snapshots> -->
+    <!--     <enabled>true</enabled> -->
+    <!--   </snapshots> -->
+    <!-- </repository> -->
   </repositories>
 
   <reporting>
