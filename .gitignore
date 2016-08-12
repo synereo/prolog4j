@@ -6,3 +6,5 @@ target
 /prolog4j-swi/site
 /prolog4j-test/site
 /prolog4j-tuprolog/site
+.idea
+*.iml
